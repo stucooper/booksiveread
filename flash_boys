@@ -2,78 +2,97 @@ FLASH BOYS by Michael Lewis.
 
 Penguin 2014. Paperback.
 
-Seven years ago I read and reviewed (for my personal github) "Dial M for Murdoch" while working
-for Rupert Murdoch's News Corp in Sydney. I was peripheral to the scandals but I did work for
-the organisation; at the time they closed The News of the World.
+Seven years ago I read and reviewed (for my personal github) "Dial M
+for Murdoch" while working for Rupert Murdoch's News Corp in Sydney. I
+was peripheral to the scandals but I did work for the organisation; at the time they closed The News of the World.
 
-In 2022 I've landed in a new scandal and this time I'm in the thick of it. Proprietary Trading Firms
-(hereafter "Props") are stealing money from the sharemarket. Flash Boys explains how and the
-history and personalities involved, together with a small group trying to stop it.
+In 2022 I've landed in a new scandal and this time I'm in the thick of
+it. Proprietary Trading Firms (hereafter "Props") are stealing money
+from the sharemarket. Flash Boys explains how and the history and
+personalities involved, together with a small group trying to stop
+it.
 
-We'll get to all of that later. A lot of my personal history is needed first and my son Linus
-is integral to this too. I'll try to keep everything as chronological as possible.
+We'll get to all of that later. A lot of my personal history is needed
+first and my son Linus is integral to this too. I'll try to keep
+everything as chronological as possible.
 
-Canberra, June 2017. Linus, my brother Grahame and I are in Parliament House for a presentation
-ceremeony for Australian Olympiad teams. Linus is in the team with the most history and
-prestige, the Mathematics Olympiad team. Students had to write a paragraph to accompany
-their picture in the program booklet. I wrote Linus's paragraph; here it is in full.
+Canberra, June 2017. Linus, my brother Grahame and I are in Parliament
+House for a presentation ceremeony for Australian Olympiad
+teams. Linus is in the team with the most history and prestige, the
+Mathematics Olympiad team. Students had to write a paragraph to
+accompany their picture in the program booklet. I wrote Linus's
+paragraph; here it is in full.
 
-Linus has had a love of numbers, patterns and logic since he was a child.
-With a keen interest in languages and board games, Linus is looking forward to
-meeting talented students from all around the world at the International
-Mathematical Olympiad. When asked about his plans for the future, Linus said
-"I expect I will be involved in research and algorithms, possibly connected with finance".
+Linus has had a love of numbers, patterns and logic since he was a
+child. With a keen interest in languages and board games, Linus is
+looking forward to meeting talented students from all around the world
+at the International Mathematical Olympiad. When asked about his plans
+for the future, Linus said "I expect I will be involved in research
+and algorithms, possibly connected with finance".
 
-When I did Maths at University, 1989-1992, the graduate jobs for the Maths whizzes were
-as Actuaries in Insurance, or Academia. There was a whisper of jobs for the
-Defence Signals Directorate; code-breaking spies. Thirty year later, financial mathematics
-is prevalent, so I wrote Linus's paragraph with a view to his post-Uni employment and
+When I did Maths at University, 1989-1992, the graduate jobs for the
+Maths whizzes were as Actuaries in Insurance, or Academia. There was a
+whisper of jobs for the Defence Signals Directorate; code-breaking
+spies. Thirty year later, financial mathematics is prevalent, so I
+wrote Linus's paragraph with a view to his post-Uni employment and
 with a nod to the Australian Maths Olympiad sponsor, Optiver.
 
-University of Sydney, March  2019. Linus is now in his first year of University and I
-drive him to campus during a long period where I'm not working. I'm on campus myself
-for a few hours here and there and I go to a few graduate fairs for Maths, Computer Science
-and Engineering students. A lot of the companies hand out branded playing cards and poker chips.
-Optiver, SIG, Jane Street and Flow Traders are the four that I remember; there were probably
-one or two more.
+University of Sydney, March  2019. Linus is now in his first year of
+University and I drive him to campus during a long period where I'm
+not working. I'm on campus myself for a few hours here and there and I
+go to a few graduate fairs for Maths, Computer Science and Engineering
+students. A lot of the companies hand out branded playing cards and
+poker chips. Optiver, SIG, Jane Street and Flow Traders are the four
+that I remember; there were probably one or two more.
 
-Sydney. Septeber 2022. I'm now working for a Prop; a trading company in High Frequency Trading.
-The company doesn't have customers; and uses their own money to make money trading on the
-share market; millions of trades per day. How do they make their money?
+Sydney. Septeber 2022. I'm now working for a Prop; a trading company
+in High Frequency Trading. The company doesn't have customers; and
+uses their own money to make money trading on the share market;
+millions of trades per day. How do they make their money?
 
-HFT companies exploit differences in the market at nanosecond speed (thousand-millionths of a second).
-When a big buy order arrives at an exchange, a share price will go up. With this foreknowledge,
-HFT companies buy that stock at a different exchange, racing the information at near-light speed.
-This technique is called "Front-running" (there are plenty of others and new techniques are
-being worked on all the time). The Props have their computers right next to the actual
-trading computers and as soon as trading opens each day, the race is on.
+HFT companies exploit differences in the market at nanosecond speed
+(thousand-millionths of a second). When a big buy order arrives at an
+exchange, a share price will go up. With this foreknowledge, HFT
+companies buy that stock at a different exchange, racing the
+information at near-light speed. This technique is called
+"Front-running" (there are plenty of others and new techniques are
+being worked on all the time). The Props have their computers right
+next to the actual trading computers and as soon as trading opens each
+day, the race is on.
 
-In Australia the exchanges are in the Sydney suburbs of Mascot and Artarmon. In the US the action
-is across many sites in New Jersey, and Chicago.
+In Australia the exchanges are in the Sydney suburbs of Mascot and
+Artarmon. In the US the action is across many sites in New Jersey, and
+Chicago.
 
-Flash Boys is written as a detective story. Wall Street traders keep seeing the prices of their trades
-change from under their noses as Props discover their buy and sell intentions as soon as they trade.
-Props beat them to their own trades; and the Wall Street traders have to pay more than the quoted price
-to buy, and get less than the quoted price when they sell. Money is disappearing from the market.
+Flash Boys is written as a detective story. Wall Street traders keep
+seeing the prices of their trades change from under their noses as
+Props discover their buy and sell intentions as soon as they
+trade. Props beat them to their own trades; and the Wall Street
+traders have to pay more than the quoted price to buy, and get less
+than the quoted price when they sell. Money is disappearing from the
+market.
 
-The heroes of Flash Boys discover the market unfairness and create their own fairer exchange, IEX,
-investorsexchange. They don't register that Internet name as a website because investorsexchange reads badly
-if you break after the letter "r". Standing up for the little man, they try to give investors a
-properly level playing field.
+The heroes of Flash Boys discover the market unfairness and create
+their own fairer exchange, IEX, investorsexchange. They don't register
+that Internet name as a website because investorsexchange reads badly
+if you break after the letter "r". Standing up for the little man,
+they try to give investors a properly level playing field.
 
-I was supposed to read this book a year ago, before starting my current job in this Prop firm.
-I'm kicking myself that I didn't. If you work in a Prop firm, this book will change your life.
-It opened my eyes to the tricks and shady ethics that these firms employ to make
+I was supposed to read this book a year ago, before starting my
+current job in this Prop firm. I'm kicking myself that I didn't. If
+you work in a Prop firm, this book will change your life. It opened my
+eyes to the tricks and shady ethics that these firms employ to make
 money from thin air.
 
-I'm reminded of two great modern movies. In The Firm, hotshot taxation law graduate
-Tom Cruise discovers that his first dream tax/law job is washing money for a Mafia family, among
-more legitimate clients. In The Matrix, gifted Keanu Reeves takes the Blue Pill and
-sees that the world, which he'd always suspected was a bit wrong, is totally different to the
-simulation that everyone else lives through.
+I'm reminded of two great modern movies. In The Firm, hotshot taxation
+law graduate Tom Cruise discovers that his first dream tax/law job is
+washing money for a Mafia family, among more legitimate clients. In
+The Matrix, gifted Keanu Reeves takes the Blue Pill and sees that the
+world, which he'd always suspected was a bit wrong, is totally
+different to the simulation that everyone else lives through.
 
-Flash Boys is the Blue Pill of High Frequency Trading. Linus's future is in academia.
-And my future is back in Telco.
+Flash Boys is the Blue Pill of High Frequency Trading. Linus's future
+is in academia. And my future is back in Telco.
 
 
                                      16th September 2022
