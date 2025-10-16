@@ -1,0 +1,41 @@
+PRINCIPLES OF SAN DESIGN by Josh Judd
+
+2005. Infinity Publishing/Brocade Networks. Paperback.
+
+I'm searching for jobs more seriously than usual so I'm reading some
+technical books and manuals. All of the IT books I've reviewed here so
+far are "IT Business" books about the influence of IT and not how to
+actually use software or headware; but this is a completely technical
+book, about Storage Area Networks and how to set them up and design
+them; especially using Routers and Switches and hardware from Brocade;
+who have since been acquired by Broadcom.
+
+At the time of this book's writing, Fibre Channel was all the rage for
+the connectivity; but TCP/IP has caught up with higher speeds and now
+Fibre Channel seems all but dead; so the exhortations in this book to
+always use Fibre Channel and never use TCP/IP look very dated. Data
+rates have obviously increased substantially since this book's
+publication of 2005.
+
+I started reading this book for a possible job contract for NSW Police
+in Parramatta; but nothing came of it, in fact I couldn't get an
+interview because the cops were insistent on recent knowledge of IBM
+Tivoli Storage Manager (which has been re-named several times but the
+old-timers will still call it Tivoli). They made the JD sound like Red
+Hat Linux Systems Administration, but it was the SAN stuff they
+wanted.
+
+So back to the Josh Judd book itself. I've read half of it, and I
+continuted reading it after any need for the police job disappeared;
+because I was enjoying it and it was well written with good
+diagrams. I do enjoy a good tech book. I'm tempted to abandon it and
+shift over to more useful IT Tech job-hunting books, but this book
+deserves an entry in booksiveread even if I only read 124/308
+pages. Perhaps other SAN-needed jobs will crop up; perhaps I'll still
+read a chapter here or there and eventually finish the book (if I do
+I'll change this review). One of the best things about this book is it
+is book-novel sized and easy to read on trains.
+
+                                                     16 October 2025
+
+My book reviews are at https://github.com/stucooper/booksiveread
