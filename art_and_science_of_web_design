@@ -1,0 +1,96 @@
+THE ART AND SCIENCE OF WEB DESIGN by Jeffrey Veen
+
+2000. New Riders. Paperback.
+
+This is a book I've owned for years (since 2003) and read the first
+chapter or two a few times; but now in 2026 (a full quarter of a
+century after its publication, an eternity in human time let alone
+Internet time) I've read it, cover-to-cover.
+
+This is a book about the Why? of web design, not about the How?. It's
+the best explanation of a web designer's thought process; I really
+feel that I know how a good web designer thinks having read the whole
+book.
+
+The book itself is beautifully coloured; originally it seems a bit
+garish, like Wired magazine, but when you get used to it the colours
+are exciting and appropriate. There's good use of cutaway sections and
+bottom-of-page footer timelines. A few times I had to read to the next
+subheading, then go back a page to read the cutaway page. The flow of
+reading was slightly interrupted in doing this, but hey it's a book on
+the web and the reader should be jumping around a bit in the reading,
+even in a cover-to-cover linear reading.
+
+After so much time a lot of the websites mentioned in the book are
+defunct including hotwired.com (a digital yet separate form of Wired
+Magazine) where Veen worked for over five years. One site stronger
+than ever is netflix.com; here it is screenshotted and mentioned in
+its original "borrow DVDs over the mail" incarnation. It's changed its
+business model substantially since then. The chapter on websites
+having to be fully optimised for speed since everyone will be on
+modem's for another five years at least didn't bear out. I read a
+great business story on how the Dot Com bubble crash allowed newer
+companies to buy equipment at firesale prices, and the real innovation
+happens later. Which is tough for the sharemarket investors who lose
+their money when the companies collapse, but that's how innovation
+works.
+
+This is a fantastic reminder of the Internet as it was in 2000, the
+great Dot Com wave is coming (companies are already using URLs on
+billboards, Wired magazine is rocketing, people are starting to think
+of targetted advertising not a common banner ad that is irrelevant to
+a user and what he is searching for and doing on the site). It's also
+a unintened hommage to the pre-Google internet and the great days of
+the Portals (Yahoo, Lycos and the like) and the thinking behind those
+sites; including a great introduction to Information Architecture.
+
+There's a lot of whitespace on each page (or purplespace, or
+greenspace in the two-page chapter introductions or the full-page
+cutaways). Originally I thought this was to bump up the page count and
+make the reader feel he was getting more content in a 272-page book,
+but it's due to the paragraphs being thinner due to an old
+typographical rule, from the print days, that I hadn't come across
+before: "alphabet-and-a-half". The rule says that the most readable
+paragraphs should have line lengths of about 40 characters per line
+(26 letters in the alphabet, alphabet-and-a-half is 40 close enough).
+Veen develops some nice CSS rules to apply that we can use on our own
+web pages. I don't think alphabet-and-a-half is suitable to my own
+writing (such as these book reviews) but I'll copy in Veen's words
+here, give it a four-space indent with another two spaces for the
+start of the paragraph. It's from page 120, about the relationship
+between how something looks and how something works.
+
+      Let's look at this relationship through
+    developing the behaviour of a liquid page by manipulating its
+    style. We'll start with an old typographic axiom: The most
+    readable line lengths for a paragraph are "an alphabet and a
+    half". This means that for maximum legibility in a chunk of
+    content, each line in a paragraph should be roughly
+    40 characters wide.
+
+The second line looks jagged compared to the short first line but it
+looks better in the book (though still a bit jagged). I've got an
+old font/typography book "Looking Good in Print" in my garage that I
+can neither bring myself to read (it's got to be so out of date) nor
+bring myself to throw away (maybe, just maybe it may come in use
+someday).
+
+I'm a sucker for books beginning with the name "The Art of ". The most
+famous of these is Knuth's The Art of Computer Programming: taocp.
+The three words nicely abbreviate to "tao" so the series can also be
+thought of as "Tao (of) Computer Programming". Veen's book certainly
+deserves to be the art of, and there's enough technical information
+and real-world stories to make it the science of as well. A quick
+search of my book database shows the Eric Raymond classic
+"The Art of UNIX Programming" and a whole slew of Kevin Mitnick hack
+stories: The Art of Deception, The Art of Intrusion, The Art of
+Invisibility. Not all of my "Art of" books will become classics; Art
+of SEO will almost certainly stay unread (beautiful cover though) and
+Art of Concurrency will be functionally used if I ever need it.
+
+The Art and Science of Web Design is a beautiful book and a great
+point-in-time history of the Internet in 2000.
+
+                                         12th January 2026
+
+My book reviews are at https://github.com/stucooper/booksiveread
